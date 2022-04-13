@@ -1,0 +1,10 @@
+### YamlMime:Show
+uid: show-episode-sandbox.iot
+title: Internet of Things Show-frfr
+description: New video every week. Subscribe to stay up-to-date with latest Microsoft IoT announcements, product and features demos, customer and partner spotlights, top industry talks, and technical deep dives with IoT Show!   IoT Show also offers live-streaming events called IoT Deep Dive. Come learn about how to build IoT solutions and deep dive into scenarios like intelligent edge, DevOps, asset tracking, and other top requested technical deep dives.
+presentedLocale: en
+type: show
+imageUrl: /en-us/test/learn-tv/shows/iot/media/iot-show.jpg
+presenters:
+  - displayName: Olivier Bloch
+hidden: true
